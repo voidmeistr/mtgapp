@@ -1,4 +1,8 @@
-<h1>{{ post.title }}</h1>
-<h3>{{ post.published_date }}</h3>
+{% extends 'magic/base.html' %}
 
-<p>{{ post.text }}</p>
+{% block body %}
+	<h1>{{ post.title }}</h1>
+	<h3>{{ post.published_date }}</h3>
+
+	<p>{{ post.text }}</p>
+{% endblock %}

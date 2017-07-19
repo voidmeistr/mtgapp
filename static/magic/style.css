@@ -1,0 +1,11 @@
+body{
+	background: white url("images/brickwall.png");
+}
+
+.navbar{
+	border-radius: 0;
+}
+
+.navbar-brand{
+	font-family: 'Indie Flower', cursive;
+}
