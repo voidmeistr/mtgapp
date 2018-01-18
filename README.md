@@ -3,4 +3,4 @@ django test aplication
 
 fucntions: register, login, logout
 
-hosted on voidmeistr.pythonanywhere.com
+[voidmeistr.pythonanywhere.com](http://voidmeistr.pythonanywhere.com/)
